@@ -1,6 +1,6 @@
 ## Hi! My name is Guilheme and I'm a Backend Developer 🖐
 
-- 🔭 I'm currently working with Java(Spring), Python(Django) & PHP(Laravel) in Back end Projects!
+- 🔭 I'm currently working with Java(Spring) in Back end Projects!
 - 😄 Pronouns: he | him
 
 <div>
